@@ -4,7 +4,6 @@
 
 # Breast Cancer Classification using Logistic Regression
 
-![Breast Cancer Awareness](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fbreast-cancer-header&psig=AOvVaw3m4CEuTXxG6S3ZSnZ7ccAg&ust=1717144310368000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCOiZr7tIYDFQAAAAAdAAAAABAE)
 
 ## Table of Contents
 - [Introduction](#introduction)
