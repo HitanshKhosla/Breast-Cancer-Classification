@@ -64,37 +64,7 @@ The dataset is available from the [Kaggle Breast Cancer Wisconsin Data](https://
    python scripts/evaluate.py
    ```
 
-## Project Structure
 
-```
-breast-cancer-classification/
-├── data/
-│   ├── raw/
-│   │   └── breast_cancer_data.csv
-│   ├── processed/
-│   │   └── processed_data.csv
-├── notebooks/
-│   ├── EDA.ipynb
-│   ├── ModelTraining.ipynb
-├── scripts/
-│   ├── preprocess.py
-│   ├── train.py
-│   ├── evaluate.py
-├── models/
-│   └── logistic_regression_model.pkl
-├── requirements.txt
-├── README.md
-└── LICENSE
-```
-
-- **data/raw**: Contains the original dataset.
-- **data/processed**: Contains the processed dataset.
-- **notebooks**: Jupyter notebooks for exploratory data analysis (EDA) and model training.
-- **scripts**: Python scripts for preprocessing, training, and evaluating the model.
-- **models**: Directory to save trained models.
-- **requirements.txt**: Lists the Python dependencies required for the project.
-- **README.md**: Project documentation.
-- **LICENSE**: License for the project.
 
 ## Results
 
@@ -103,7 +73,6 @@ The logistic regression model achieved the following results:
 - **Training Accuracy**: 62.81%
 - **Testing Accuracy**: 62.57%
 
-The confusion matrix and ROC curve can be found in the `notebooks/ModelTraining.ipynb` notebook.
 
 ## Contributing
 
